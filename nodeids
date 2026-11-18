@@ -1,0 +1,3 @@
+[
+  "tests/test_chunker.py::test_chunking"
+]
